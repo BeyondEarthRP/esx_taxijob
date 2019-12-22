@@ -7,7 +7,7 @@ Config.MinimumDistance            = 3000 -- Minimum NPC job destination distance
 
 Config.MaxInService               = -1
 Config.EnablePlayerManagement     = false
-Config.EnableSocietyOwnedVehicles = false
+Config.EnableSocietyOwnedVehicles = true
 
 Config.Locale                     = 'en'
 
